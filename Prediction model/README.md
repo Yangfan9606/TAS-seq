@@ -14,12 +14,12 @@ This repository contains tools and a pre-trained model for sequence classificati
 | File | Status | Description |
 |------|--------|-------------|
 | `GetSeqFromFa.pl` | _Ready to use_ | FASTA sequence extractor |
-| `Negative_A_sites_from_HEK293T_NES` | _Ready to use_ | Negative cleavage sites |
-| `Positive_A_sites_from_HEK293T_NES` | _Ready to use_ | Positive cleavage sites |
+| `Negative_A_sites_from_HEK293T_NES` | _Ready to use_ | Negative modificated sites |
+| `Positive_A_sites_from_HEK293T_NES` | _Ready to use_ | Positive modificated sites |
 | `Sequence_classifier.py` | _Ready to use_ | Model training script |
-| `Sequence_predictor.py` | _Ready to use_ | Prediction interface |
+| `Sequence_predictor.py` | _Ready to use_ | Prediction script |
 | `fna.NCBI.Chr_Rename.pl` | _Ready to use_ | Chromosome name normalizer |
-| `yangfan.pm` | _Ready to use_ | Perl utility module |
+| `yangfan.pm` | _Ready to use_ | Perl utility modules |
 
 ---
 *Developed by Yangfan • Model trained on HEK293T NES dataset*
