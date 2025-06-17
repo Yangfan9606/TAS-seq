@@ -1,4 +1,4 @@
-# TAS-seq Prediction Model
+# Subcellular ssA Prediction Model based on TAS-seq
 
 ## Overview
 This repository contains tools and a pre-trained model for sequence classification in TAS-seq analysis. The core model was trained on randomly sampled biological sequences.
