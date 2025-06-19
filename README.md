@@ -4,7 +4,7 @@
 
 Repository for the TAS-seq computational pipeline and analysis scripts from the publication:
 
-> **TadA-8e deaminase-assisted subcellular structural adenosine sequencing**  
+> **TAS-sea enables subcellular single-stranded adenosine profiling by signal peptide-assisted adenosine deamination**  
 > *DOI: 10.1016/j.crmeth.2025.101087*
 
 ---
