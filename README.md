@@ -2,7 +2,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.crmeth.2025.101087-blue)](https://doi.org/10.1016/j.crmeth.2025.101087)
 
-Official repository for the TAS-seq computational pipeline and analysis scripts from the publication:
+Repository for the TAS-seq computational pipeline and analysis scripts from the publication:
 
 > **TadA-8e deaminase-assisted subcellular structural adenosine sequencing**  
 > *DOI: 10.1016/j.crmeth.2025.101087*
