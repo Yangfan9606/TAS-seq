@@ -10,14 +10,15 @@ Repository for the TAS-seq computational pipeline and analysis scripts from the 
 ---
 
 ## Repository Structure
-.
-|── Perl_scripts/ # Perl analysis scripts
-|── Prediction_model/ # Machine learning prediction models
-| └── README.md # Model documentation
-|── R_scripts/ # R analysis and visualization scripts
-|── run.sh # Main pipeline execution script
-|── README.md # This overview document
-
+```bash
+├── Perl_scripts/ # Perl analysis scripts
+│ └── README.md # Perl script documentation
+├── Prediction_model/ # Machine learning prediction models
+│ └── README.md # Model documentation
+├── R_scripts/ # R analysis and visualization scripts
+├── run.sh # Main pipeline execution script
+├── README.md # This overview document
+```
 
 ## Requirements
 - Unix/Linux environment
