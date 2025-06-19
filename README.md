@@ -14,8 +14,7 @@ Repository for the TAS-seq computational pipeline and analysis scripts from the 
 ├── Prediction_model/ # Machine learning prediction models
 │ └── README.md # Model documentation
 ├── R_scripts/ # R analysis and visualization scripts
-│ └── FigS10B/ # Scripts for generating supplementary figure S10B
-├── run.sh # Main pipeline execution script (updated 12 minutes ago)
+├── run.sh # Main pipeline execution script
 └── README.md # This overview document
 
 
@@ -23,7 +22,7 @@ Repository for the TAS-seq computational pipeline and analysis scripts from the 
 - Unix/Linux environment
 - Perl 5.10+
 - R 4.0+
-- Python 3.6+ (for prediction models)
+- Python 3.10+ (for prediction models)
 
 ## Quick Start
 Execute the main pipeline:
