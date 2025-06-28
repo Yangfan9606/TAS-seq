@@ -1,6 +1,6 @@
 # TAS-seq: TadA-8e Deaminase-Assisted Subcellular Structural Adenosine Sequencing
 
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.crmeth.2025.101087-blue)](https://doi.org/10.1016/j.crmeth.2025.101087)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.crmeth.2025.101087-blue)](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00123-7)
 
 Repository for the TAS-seq computational pipeline and analysis scripts from the publication:
 
